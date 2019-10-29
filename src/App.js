@@ -32,7 +32,7 @@ class App extends Component {
 
   componentDidMount = () => {
     this.setState({
-      taxes: (this.state.total + this.state.PickupSavings) * 0.0875
+      taxes: (this.state.total + this.state.PickupSavings) * 0.185
 
     },
       function () {
