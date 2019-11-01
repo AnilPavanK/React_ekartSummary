@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React_ekartSummary/static/css/main.0b192635.chunk.css",
+    "main.js": "/React_ekartSummary/static/js/main.9af2b544.chunk.js",
+    "main.js.map": "/React_ekartSummary/static/js/main.9af2b544.chunk.js.map",
+    "runtime-main.js": "/React_ekartSummary/static/js/runtime-main.69a88bba.js",
+    "runtime-main.js.map": "/React_ekartSummary/static/js/runtime-main.69a88bba.js.map",
+    "static/js/2.0de1e603.chunk.js": "/React_ekartSummary/static/js/2.0de1e603.chunk.js",
+    "static/js/2.0de1e603.chunk.js.map": "/React_ekartSummary/static/js/2.0de1e603.chunk.js.map",
+    "index.html": "/React_ekartSummary/index.html",
+    "precache-manifest.55b8054327b3e647fec2a4a71428be1a.js": "/React_ekartSummary/precache-manifest.55b8054327b3e647fec2a4a71428be1a.js",
+    "service-worker.js": "/React_ekartSummary/service-worker.js",
+    "static/css/main.0b192635.chunk.css.map": "/React_ekartSummary/static/css/main.0b192635.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69a88bba.js",
+    "static/js/2.0de1e603.chunk.js",
+    "static/css/main.0b192635.chunk.css",
+    "static/js/main.9af2b544.chunk.js"
+  ]
+}
